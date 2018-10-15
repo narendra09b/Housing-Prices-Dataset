@@ -30,3 +30,8 @@ This dataset comes from the UCI Machine Learning Repository and contains 506 row
 13) LSTAT - % lower status of the population
 
 14) MEDV (TARGET) - Median value of owner-occupied homes in 1000's
+
+The purpose of this notebook is to use the data collected about each home to predict it's median home value. 
+
+# Dataset : 
+https://archive.ics.uci.edu/ml/machine-learning-databases/housing/housing.data
